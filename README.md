@@ -1,3 +1,5 @@
+Fork of VOLK to build as dynamic library.
+
 # 🐺 volk [![Build Status](https://github.com/zeux/volk/workflows/build/badge.svg)](https://github.com/zeux/volk/actions) 
 
 ## Purpose
